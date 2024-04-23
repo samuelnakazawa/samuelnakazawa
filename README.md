@@ -18,7 +18,7 @@ Skills Snapshot
 * 🌐 Node.js: Building scalable and performant server-side applications? Count me in!
 
 Let's Connect
-📫 Feel free to reach out to me via email or connect with me on LinkedIn.
+* 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
 Projects
 
 Let's Collaborate

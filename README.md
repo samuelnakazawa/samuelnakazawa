@@ -1,28 +1,32 @@
+## Hi, my name is Samuel!
 
-# Welcome to my GitHub! 👨‍💻
+I'm a Front-End Engineer with a primary focus on React. 
 
-Hey there! 👋 I'm Samuel, but you can call me Naka, a passionate developer with a knack for crafting sleek and efficient front-end experiences. With a solid foundation in React, I thrive on bringing designs to life and creating user interfaces that dazzle and delight.
+🔭 Currently, I work on the publishing platform for Globo's products, known as Backstage.
 
-About Me
-* 💼 Full Stack Developer
-* 🌍 Based in Bragança Paulista
-* 🎓 IT Graduate
+💬 Feel free to reach out if you have any questions or just want to chat!
 
-Coding Journey
-I embarked on my coding journey in 2019, and since then, I've been on an exhilarating ride of learning and creating.
+📧 Email: [samuelnakazawa895@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/samuel-nakazawa-960301141/]
 
-Skills Snapshot
-* 🚀 Proficient in React: Turning ideas into interactive web applications is my jam.
-* 💻 Front-End Development: From HTML to CSS to JavaScript, I'm all about making web applications look and feel amazing.
-* 🐍 Python: Whether it's scripting, automation, or data analysis, Python is my trusty sidekick.
-* 🌐 Node.js: Building scalable and performant server-side applications? Count me in!
+---
 
-Let's Connect
-* 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
-Projects
+## 🚀 My Skills
 
-Let's Collaborate
-I'm always open to talk and for collaborations. If you have an exciting project or idea in mind, let's chat!
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 
-Thanks for stopping by! 🚀
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelnakazawa&show_icons=true)
